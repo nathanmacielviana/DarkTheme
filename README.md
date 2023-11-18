@@ -12,6 +12,6 @@
 <img aling="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
-<p align="center"> <strong>Theme Switcher (Dark - Light) </strong> </p> 
+<p align="center"> <strong>Descrição do Projeto 📜</strong> </p> 
 <p align="center"> > Página simples de toggle para mudança de temas claro e escuro </p>
 
